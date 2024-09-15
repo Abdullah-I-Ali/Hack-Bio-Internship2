@@ -4,11 +4,11 @@
 
 ## Authors(@slack):
 
-Abdullah Ibrahim Ali(@Abdullah108)  
-Mahmoud Hassanen (@Mahmoud203)  
-Sarah Shebl (@Sarah50)  
-Kareem Elsayed Saad Abdell Gawad(@Kareem\_101)  
-Nada Esmael Sleim (@Eddy27)
+#Abdullah Ibrahim Ali(@Abdullah108)  
+#Mahmoud Hassanen (@Mahmoud203)  
+#Sarah Shebl (@Sarah50)  
+#Kareem Elsayed Saad Abdell Gawad(@Kareem\_101)  
+#Nada Esmael Sleim (@Eddy27)
 
 # The code(s) for infograph:
 
