@@ -27,4 +27,4 @@ Nada Esmael Sleim (@Eddy27)
 
 ## Infographic Summary
 
-You can find Infographic summary [here](https://drive.google.com/file/d/1xnLhcd_LJfnsJomjtbc3gQtF7GAVvwgg/view)
+You can find complete Infographic summary with interactiveplots[here](https://drive.google.com/file/d/1xnLhcd_LJfnsJomjtbc3gQtF7GAVvwgg/view)
